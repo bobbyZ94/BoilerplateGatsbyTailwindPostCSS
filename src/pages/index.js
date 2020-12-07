@@ -1,8 +1,8 @@
-import * as React from 'react';
+import React from 'react';
 
 const IndexPage = () => (
-  <div>
-    <p className="bg-red-600">BoilerplateGatsbyTailwind</p>
+  <div className="px-10 my-10">
+    <p>BoilerplateGatsbyTailwind</p>
   </div>
 );
 

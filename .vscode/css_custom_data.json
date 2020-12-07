@@ -40,6 +40,16 @@
           "url": "https://tailwindcss.com/docs/functions-and-directives#variants"
         }
       ]
+    },
+    {
+      "name": "@layer",
+      "description": "Generate custom class",
+      "references": [
+        {
+          "name": "Tailwind Documentation",
+          "url": ""
+        }
+      ]
     }
   ]
 }
